@@ -1,0 +1,16 @@
+{
+  "users": {
+    "Default": {
+      "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "role": "admin"
+    },
+    "0010": {
+      "lastname": "Иванов",
+      "firstname": "Иван",
+      "middlename": "",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "role": "operator"
+    }
+  },
+  "test_area_name": "ООО \"Ту-ту\""
+}
