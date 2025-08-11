@@ -1,0 +1,13 @@
+Record=TopLevelDocument|FileName=BI1.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=BI2.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=BI3.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=BI4.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=BI5.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=BI6.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=BI7.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=BI8.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=Conn.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=Interface.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=Mode.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BI1.SchDoc|FileName=Power.SchDoc|SheetNumber=3
